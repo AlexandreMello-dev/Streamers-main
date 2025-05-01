@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(81, 81, 236);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin: auto;
+    max-width: 580px;
+    min-width: 200px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+footer {
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+
+
+img {
+    border-radius: 50%;
+}
+
+.container-flex {
+    display: flex;
+    gap: 50px;
+    margin-bottom: 10px;
+}
